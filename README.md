@@ -1,4 +1,4 @@
-# watermarking dengan Transformasi iWavelet dan Singular Value Decomposition (SVD)
+# watermarking dengan Transformasi Wavelet dan Singular Value Decomposition (SVD)
 
 Projek yang dibuat untuk menyelesaikan tugas matakuliah Keamanan Informasi
 Aplikasi Watermarking dengan Transformasi Wavelet dan Singular Value Decomposition (SVD)
